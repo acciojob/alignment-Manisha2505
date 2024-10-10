@@ -1,15 +1,18 @@
 table {
   width: 100%;
-padding: 1px;
 }
-#t12{
+
+td.left {
+  text-align: left;
+}
+td.center {
   text-align: center;
-/*   padding: 0%; */
 }
-#t13{
+
+td.right {
   text-align: right;
-/*   padding: 0%; */
 }
+
 #t21{
 padding: 10px;
 }
